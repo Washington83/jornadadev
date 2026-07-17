@@ -1,0 +1,2 @@
+# Exercício 5 — Reflexão
+Dizemos que o computador não erra porque ele executa exatamente as instruções que foram programadas, sem interpretar ou tomar decisões por conta própria. Isso implica que quem programa deve criar algoritmos claros, corretos e bem planejados, pois qualquer erro na lógica ou nas instruções fará com que o computador produza resultados incorretos, mesmo executando o programa corretamente.
